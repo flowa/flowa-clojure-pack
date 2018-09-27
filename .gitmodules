@@ -1,0 +1,9 @@
+[submodule "lib/cider"]
+	path = lib/cider
+	url = https://github.com/clojure-emacs/cider.git
+[submodule "lib/clj-refactor"]
+	path = lib/clj-refactor
+	url = https://github.com/clojure-emacs/clj-refactor.el.git
+[submodule "lib/sesman"]
+	path = lib/sesman
+	url = https://github.com/vspinu/sesman.git
